@@ -3,11 +3,12 @@
 Challenge Week16 Data Analysis BootCamp using AWS, PySpark and Postgres.
 
 
-<img src="https://github.com/annarochav/Amazon_Vine_Analysis/blob/main/Resources/what-is-amazon-vine-program-adlucent.jpg" width="700" height="" />
+<img src="https://github.com/annarochav/Amazon_Vine_Analysis/blob/main/Resources/what-is-amazon-vine-program-adlucent.jpg" width="1000" height="" />
 
 ## ⚡Overview of the analysis:
 
 This project consists of determine if there are any biases between Vine members and non-Vine member's Beauty products reviews. A Vine program means that some companies receive products and are required to make a review, these reviews must be objective and free from bias to be valuable data. 
+
 For this analysis, an ETL process was used to extract data from an AWS RDS, transformed it with PySpark and loaded to a Postgres Database.
 
 ## ⚡Results: 
