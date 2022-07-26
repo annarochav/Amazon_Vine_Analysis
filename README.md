@@ -36,5 +36,5 @@ For this analysis, an ETL process was used to extract data from an AWS RDS, tran
 
 ## ⚡Summary: 
 
-Since 58.31% of the 5-star reviews come from non-paid customers, the reviews from the **Vine program members seem to be objective and without bias**, 35.39% was the result. Additional analysis must be made to make better conclusions, for example, we can filter by product category or brand. Also we can compare 3 and 4 stars and see if there is any difference.
+Since 58.31% of the 5-star reviews come from non-paid customers, **the reviews from the Vine program members seem to be objective and without bias**, 35.39% was the result. Additional analysis must be made to make better conclusions, for example, we can filter by product category or brand. Also we can compare 3 and 4 stars and see if there is any difference.
 
